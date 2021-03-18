@@ -1,7 +1,7 @@
 # mix2
 easy to use audio editor/compiler
 
-##Steps to install
+## Steps to install
 
 *This part needs work
 
@@ -21,3 +21,7 @@ easy to use audio editor/compiler
 `pip install librosa`
 
 *yes this should be in a requirements.txt
+
+# Run
+
+`python audiocompiler.py`
