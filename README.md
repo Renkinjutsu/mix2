@@ -2,9 +2,11 @@
 easy to use audio editor/compiler
 
 ##Steps to install
-This part needs work
-*you need python/pip
-*I also set this up in venv, I don't think you have to
+
+*This part needs work
+
+1. you need python/pip
+2. I also set this up in venv, I don't think you have to
 `pip install numpy`
 `pip install audiofile`
 `pip install soundfile`
