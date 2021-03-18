@@ -25,3 +25,5 @@ easy to use audio editor/compiler
 # Run
 
 `python audiocompiler.py`
+
+I read somewhere to be careful about blowing out your speakers, so I've plugged in cheap headphone when testing
