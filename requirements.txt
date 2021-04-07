@@ -1,0 +1,7 @@
+numpy==1.20.2
+audiofile==0.4.1
+SoundFile==0.10.3.post1
+playsound==1.2.2
+pyobjc==7.1
+librosa==0.8.0
+sox==1.4.1
